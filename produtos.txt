@@ -1,4 +1,0 @@
-Pastel de Carne;Salgados;Massa e guisado;6.5;https://static-images.ifood.com.br/image/upload/t_high/pratos/815fa20a-6c75-4ac8-ad9c-d18857b03cfe/202004192014_A0bv_p.jpg
-Coca-cola 200ml;Bebidas;Agua, coca e acucar;4;https://andinacocacola.vtexassets.com/arquivos/ids/158146/CCO-200ML--1000-x-1000-px-.jpg?v=638575081418230000
-Torrada;Salgados;Pao, queijo e presunto;9;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfnrlOvdwlKIMezb1WfviexCwC4UZM8C0AJQ&s
-batata;batsa;a;10;
